@@ -1,6 +1,8 @@
 ## Vehicle for Sale by Owner
 By Ben Rosen | benrosen.itch.io
 
+![Pixel art mech](image.webp)
+
 A solo roleplaying game about selling your mech.
 
 You are a mech pilot. The time has come to sell your old ride.
