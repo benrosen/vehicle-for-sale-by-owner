@@ -22,9 +22,9 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 
 ### EACH TURN:
 1. Play a card from your hand
-2. Use the [ASPECTS](#aspects) table and the [SYSTEMS](#systems) table to determine the system aspect to write about (e.g. the system aspect for the five of hearts would be “weapons anecdote”. Three of diamonds would be “AI quirk”. The ace of spades would be “power specifications”.)
-3. Roll the D6 and use the [APPEAL](#appeal) table to determine how appealing buyers will find this ASPECT of your mech.
-4. Write a sentence or two (or three…) about this ASPECT of your mech, keeping in mind its APPEAL to your potential buyers.
+2. Use the [ASPECTS](#aspects) table and the [SYSTEMS](#systems) to derive a prompt (e.g. the prompt for the five of hearts would be “weapons anecdote”. Three of diamonds would be “AI quirk”. The ace of spades would be “power specifications”.)
+3. Roll the D6 and use the [APPEAL](#appeal) table to determine how appealing buyers will find this aspect of your mech's system.
+4. Write a sentence or two (or three…) about this aspect of your mech's system, keeping in mind its appeal to your potential buyers.
 
 ### AFTER PLAYING ALL YOUR CARDS:
 1. Double-check your ad for spelling and grammatical errors
