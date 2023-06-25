@@ -36,22 +36,28 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   <tr>
     <th>Suit</th>
     <th>Aspect</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>♦</td>
     <td>Quirk</td>
+    <td>These are unique characteristics or idiosyncrasies of your mech that make it stand out from others. It could be an unusual feature, behavior, or attribute of the mech that might appeal to potential buyers.</td>
   </tr>
   <tr>
     <td>♣</td>
     <td>Appearance</td>
+    <td>This refers to the physical look of your mech. It could include things like color, size, or any additional aesthetic modifications you've made. The right appearance might be crucial for buyers looking for a specific aesthetic.</td>
   </tr>
   <tr>
     <td>♥</td>
     <td>Anecdote</td>
+    <td>Anecdotes are personal stories or experiences associated with your mech. They can add a personal touch or historical context to your mech, which can increase its appeal to certain buyers.</td>
   </tr>
   <tr>
     <td>♠</td>
     <td>Specification</td>
+    <td>These are detailed descriptions of your mech's technical aspects, such as its power output, weapon capabilities, or sensor range. Clear and accurate specifications can assure buyers of what they're getting.</td>
+  </tr>
   </tr>
 </table>
 
