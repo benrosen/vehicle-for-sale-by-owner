@@ -22,7 +22,7 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 
 ### EACH TURN:
 1. Play a card from your hand
-2. Use the [ASPECTS](#aspects) table and the [SYSTEMS](#systems) table to derive a prompt (e.g. the prompt for the five of hearts would be “weapons anecdote”. Three of diamonds would be “AI quirk”. The ace of spades would be “power specifications”.)
+2. Use the [SYSTEMS](#systems) table and the [ASPECTS](#aspects) table to derive a prompt (e.g. the prompt for the five of hearts would be “weapons anecdote”. Three of diamonds would be “AI quirk”. The ace of spades would be “power specifications”.)
 3. Roll the D6 and use the [APPEAL](#appeal) table to determine how appealing buyers will find this aspect of your mech's system.
 4. Write a sentence or two (or three…) about this aspect of your mech's system, keeping in mind its appeal to your potential buyers.
 
@@ -60,26 +60,32 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   <tr>
     <th>Rank</th>
     <th>System</th>
+    <th>Examples</th>
   </tr>
   <tr>
     <td>A</td>
     <td>Power</td>
+    <td>Fusion reactors, diesel engines, radiation-hardened electrical systems, recharcheable batteries, zero-point energy modules, disposable fuel tanks, solar panels, backup pull start, etc.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Interface</td>
+    <td>Neural link controls, touch screens, haptic feedback suits, light-up buttons and switches, voice activated systems, padded seatbelts, eye-tracking, AR dashboards, etc.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>AI</td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Sensors</td>
+    <td>Multi-spectral imaging, floodlights, adjustable side mirrors, neutrino detectors, radar arrays, pull-down periscope, binoculars, surround-sound, bulletproof windows, etc.</td>
   </tr>
     <tr>
     <td>5</td>
     <td>Weapons</td>
+      <td>Missile pods, energy swords, giant throwing knives, gatling guns, shoulder-mounted howitzers, high-voltage knuckledusters, pulsed mining lasers, kamikaze drones, double-barreled anti-aircraft shotgun, a club, etc.</td>
   </tr>
   <tr>
     <td>6</td>
