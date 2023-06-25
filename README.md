@@ -104,7 +104,7 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   </tr>
     <tr>
     <td>9</td>
-    <td>Aesthetics</td
+    <td>Aesthetics</td>
     <td>This refers to the visual design and appearance of the mech, which can be designed for practical purposes like camouflage, or for symbolic and cultural significance.</td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   </tr>
   <tr>
     <td>J</td>
-    <td>Safety</td
+    <td>Safety</td>
     <td>This system encompasses all features designed to protect the pilot and ensure the safe operation of the mech, such as safety protocols, emergency systems, and protective features.</td>
   </tr>
   <tr>
