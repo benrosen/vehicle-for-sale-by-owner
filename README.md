@@ -60,64 +60,72 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   <tr>
     <th>Rank</th>
     <th>System</th>
-    <th>Examples</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>A</td>
     <td>Power</td>
-    <td>Fusion reactors, diesel engines, radiation-hardened electrical systems, recharcheable batteries, zero-point energy modules, disposable fuel tanks, solar panels, backup pull start, etc.</td>
+    <td>This system provides the energy required to power the mech's various functions, including movement, weapon usage, and system operations.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Interface</td>
-    <td>Neural link controls, touch screens, haptic feedback suits, light-up buttons and switches, voice activated systems, padded seatbelts, eye-tracking, AR dashboards, etc.</td>
+    <td>This is the user-friendly control panel or control system that allows the pilot to operate the mech effectively.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>AI</td>
-    <td></td>
+    <td>This system assists the pilot by controlling certain functions autonomously, providing important feedback, and offering tactical advice.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Sensors</td>
-    <td>Multi-spectral imaging, floodlights, adjustable side mirrors, neutrino detectors, radar arrays, pull-down periscope, binoculars, surround-sound, bulletproof windows, etc.</td>
+    <td>These systems allow the mech to perceive the world around it, identifying potential threats or objectives in the environment.</td>
   </tr>
     <tr>
     <td>5</td>
     <td>Weapons</td>
-      <td>Missile pods, energy swords, giant throwing knives, gatling guns, shoulder-mounted howitzers, high-voltage knuckledusters, pulsed mining lasers, kamikaze drones, double-barreled anti-aircraft shotgun, a club, etc.</td>
+    <td>This includes any offensive capabilities the mech possesses, from projectile weapons to energy beams or even melee weapons.</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Armor</td>
+    <td>This is the defensive shell of the mech, designed to withstand attacks and protect the pilot and internal systems from damage.</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Cargo</td>
+    <td>This refers to the storage capacity of the mech, for carrying anything from supplies and ammunition to secondary equipment or mission-specific items.</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Chassis</td>
+    <td>The structural framework of the mech, providing support and integrity for the various systems and components.</td>
   </tr>
     <tr>
     <td>9</td>
-    <td>Aesthetics</td>
+    <td>Aesthetics</td
+    <td>This refers to the visual design and appearance of the mech, which can be designed for practical purposes like camouflage, or for symbolic and cultural significance.</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Communications</td>
+    <td>These are the systems the mech uses to send and receive information, whether communicating with a base of operations, other mechs, or other entities.</td>
   </tr>
   <tr>
     <td>J</td>
-    <td>Safety</td>
+    <td>Safety</td
+    <td>This system encompasses all features designed to protect the pilot and ensure the safe operation of the mech, such as safety protocols, emergency systems, and protective features.</td>
   </tr>
   <tr>
     <td>Q</td>
     <td>Repairability</td>
+    <td>This refers to the ease and efficiency with which the mech can be repaired, either through automated systems, user-friendly design, or support from external sources.</td>
   </tr>
     <tr>
     <td>K</td>
     <td>Accessories</td>
+    <td>These are additional features or equipment that support the core function of the mech, enhancing its capabilities or offering specialized functions for specific situations.</td>
   </tr>
 </table>
 
