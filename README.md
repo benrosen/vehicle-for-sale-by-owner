@@ -27,9 +27,10 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 4. Write a sentence or two (or three…) about this aspect of your mech's system, keeping in mind its appeal to your potential buyers.
 
 ### AFTER PLAYING ALL YOUR CARDS:
-1. Double-check your ad for spelling and grammatical errors
+1. Write a short, descriptive title that will grab the attention of potential buyers
 2. Choose a fair listing price for your mech
-3. Post your ad somewhere potential buyers are likely to see it
+3. Double-check your ad for spelling and grammatical errors
+5. Post your ad somewhere potential buyers are likely to see it
 
 ### ASPECTS
 <table>
@@ -71,37 +72,37 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
   <tr>
     <td>A</td>
     <td>Power</td>
-    <td>This system provides the energy required to power the mech's various functions, including movement, weapon usage, and system operations.</td>
+    <td>The energy required to power the mech's various functions, including movement, weapon usage, and system operations.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Interface</td>
-    <td>This is the user-friendly control panel or control system that allows the pilot to operate the mech effectively.</td>
+    <td>The user-friendly control panel or control system that allows the pilot to operate the mech effectively.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>AI</td>
-    <td>This system assists the pilot by controlling certain functions autonomously, providing important feedback, and offering tactical advice.</td>
+    <td>Assists the pilot by controlling certain functions autonomously, providing important feedback, and offering tactical advice.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Sensors</td>
-    <td>These systems allow the mech to perceive the world around it, identifying potential threats or objectives in the environment.</td>
+    <td>Allow the mech to perceive the world around it, identifying potential threats or objectives in the environment.</td>
   </tr>
     <tr>
     <td>5</td>
     <td>Weapons</td>
-    <td>This includes any offensive capabilities the mech possesses, from projectile weapons to energy beams or even melee weapons.</td>
+    <td>Includes any offensive capabilities the mech possesses, from projectile weapons to energy beams or even melee weapons.</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Armor</td>
-    <td>This is the defensive shell of the mech, designed to withstand attacks and protect the pilot and internal systems from damage.</td>
+    <td>The defensive shell of the mech, designed to withstand attacks and protect the pilot and internal systems from damage.</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Cargo</td>
-    <td>This refers to the storage capacity of the mech, for carrying anything from supplies and ammunition to secondary equipment or mission-specific items.</td>
+    <td>The storage capacity of the mech, for carrying anything from supplies and ammunition to secondary equipment or mission-specific items.</td>
   </tr>
   <tr>
     <td>8</td>
@@ -111,17 +112,17 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
     <tr>
     <td>9</td>
     <td>Aesthetics</td>
-    <td>This refers to the visual design and appearance of the mech, which can be designed for practical purposes like camouflage, or for symbolic and cultural significance.</td>
+    <td>The visual design and appearance of the mech, which can be designed for practical purposes like camouflage, or for symbolic and cultural significance.</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Communications</td>
-    <td>These are the systems the mech uses to send and receive information, whether communicating with a base of operations, other mechs, or other entities.</td>
+    <td>The systems the mech uses to send and receive information, whether communicating with a base of operations, other mechs, or other entities.</td>
   </tr>
   <tr>
     <td>J</td>
     <td>Safety</td>
-    <td>This system encompasses all features designed to protect the pilot and ensure the safe operation of the mech, such as safety protocols, emergency systems, and protective features.</td>
+    <td>Features designed to protect the pilot and ensure the safe operation of the mech, such as safety protocols, emergency systems, and protective features.</td>
   </tr>
   <tr>
     <td>Q</td>
@@ -131,7 +132,7 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
     <tr>
     <td>K</td>
     <td>Accessories</td>
-    <td>These are additional features or equipment that support the core function of the mech, enhancing its capabilities or offering specialized functions for specific situations.</td>
+    <td>Additional features or equipment that support the core function of the mech, enhancing its capabilities or offering specialized functions for specific situations.</td>
   </tr>
 </table>
 
