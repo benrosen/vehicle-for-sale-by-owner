@@ -138,7 +138,12 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 ### APPEAL
 
 <table>
-<tr>
+  <tr>
+    <th>Roll</th>
+    <th>Appeal</th>
+    <th>Description</th>
+  </tr>
+  <tr>
     <td>1</td>
     <td>Dealbreaker</td>
     <td>This is a critical flaw or issue that could potentially dissuade all but the most desperate or specific buyers. It's something that seriously undermines the mech's value or functionality.</td>
