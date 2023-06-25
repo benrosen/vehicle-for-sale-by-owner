@@ -141,25 +141,31 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 <tr>
     <td>1</td>
     <td>Dealbreaker</td>
+    <td>This is a critical flaw or issue that could potentially dissuade all but the most desperate or specific buyers. It's something that seriously undermines the mech's value or functionality.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Problem</td>
+    <td>A problem is a significant negative aspect that may deter many potential buyers. It's not as severe as a dealbreaker, but it's something that would need fixing or dealing with.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Defect</td>
+    <td>A defect is a minor issue or fault with the mech. It's not ideal, but some buyers might be willing to overlook it, especially if the mech excels in other areas or if the defect can be easily repaired.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Feature</td>
+    <td>A feature is a standard, expected aspect of the mech. It doesn't particularly add or detract from the mech's appeal, but its absence could be noted. Features are the basic expectations any buyer would have for a functional mech.</td>
   </tr>
     <tr>
     <td>5</td>
     <td>Bonus</td>
+    <td>A bonus is an aspect of the mech that, while not necessary, adds value. It could be an extra feature, a unique design element, or an exceptional performance in a particular area. Bonuses could attract more buyers or justify a higher price.</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Luxury</td>
+    <td>A luxury is an exceptional or rare attribute that greatly increases the mech's appeal. This could be a high-end feature, superior performance, or exclusive accessory. Luxuries can make the mech highly desirable to certain buyers, often justifying a premium price.</td>
   </tr>
 </table>
