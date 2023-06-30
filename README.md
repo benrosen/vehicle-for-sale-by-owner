@@ -1,5 +1,5 @@
 ## Vehicle for Sale by Owner
-By Ben Rosen | benrosen.itch.io
+By Ben Rosen | brosen.itch.io
 
 ![Pixel art mech](image.webp)
 
