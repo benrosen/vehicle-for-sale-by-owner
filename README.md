@@ -30,7 +30,7 @@ Use this guide to help you write a “classifieds ad” that showcases your mech
 1. Write a short, descriptive title that will grab the attention of potential buyers
 2. Choose a fair listing price for your mech
 3. Double-check your ad for spelling and grammatical errors
-5. Post your ad [somewhere potential buyers are likely to see it](https://brosen.itch.io/vehicle-for-sale-by-owner)
+4. Post your ad [somewhere potential buyers are likely to see it](https://brosen.itch.io/vehicle-for-sale-by-owner)
 
 ### ASPECTS
 <table>
